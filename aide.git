@@ -1,0 +1,4 @@
+git init
+git remote add origin https://heriniaina10@bitbucket.org/devjmc/itr.git
+git fetch origin master
+git checkout master
