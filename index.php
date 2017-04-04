@@ -1,4 +1,3 @@
 <?php
-phpinfo();
-echo 'ceci est un test';
+var_dump("andrana");
 ?>
